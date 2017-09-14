@@ -22,6 +22,7 @@ GO
 /*
  =====================================================================================
  Migrado por :			<Renato Ferreira>
+ Matricula   :          <c113327> 
  data criacao:			<17/08/2017>
  Descricao :			pkgMOVIMENTOS_Producao_SEGMENTACAO_TIPO_REGISTRO_LIQUIDACAO
  Arquivo (veracruz) :	MOVIMENTOS_TRANSFERENCIA_AAAMMDD.7z
